@@ -1,0 +1,17 @@
+---
+title: "perim"
+output: html_document
+date: "2026-10-14"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r cars}
+area_cuadrado <- function(L) {
+  return (4 * L)
+}
+```
+
