@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{r cars}
-area_cuadrado <- function(L) {
+perim_cuadrado <- function(L) {
   return (4 * L)
 }
 ```
